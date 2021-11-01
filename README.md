@@ -6,7 +6,7 @@
 
 [<img alt="Patreon" src="https://img.shields.io/badge/-Support_on_Patreon-F96854.svg?logo=patreon&style=flat-square&logoColor=white" height=32>](https://www.patreon.com/essentialsx)
 
-This is a fork of Essentials called EssentialsX.
+This is a fork of Essentials called ryzech/EssentialsX.
 
 If you are using this, do **NOT** ask Essentials for support.
 
